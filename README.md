@@ -10,7 +10,7 @@ Software Engineering Student at Kırklareli University.
 ---
 
 🎓 Education  
-B.Sc. in Software Engineering | Kırklareli University (3rd Year)
+B.Sc. in Software Engineering | Kırklareli University 
 
 ---
 
