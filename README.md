@@ -30,7 +30,7 @@ Tools: Git, GitHub, VS Code
 ---
 
 📫 Contact  
-Email: aysegulavci2026@gmail.com  
+Email: aysegulavci2025@gmail.com  
 
 ---
 
